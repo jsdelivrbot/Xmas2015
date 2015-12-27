@@ -2,6 +2,9 @@ Xmas hack 2015
 ------
 **TypeScript/Javascript christmas hack**
 
-Just copy the javascript and paste is your console for some 30FPS-html-x-mas feeling. 
+Just paste this in your javascript console:
+```javascript
+var d=document,s=d.createElement("script");s.src="https://rawgit.com/AllNamesRTaken/Xmas2015/master/xmas.js";d.body.appendChild(s);
+```
 
 Feel free to make it into whatever.
